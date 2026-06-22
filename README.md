@@ -119,6 +119,16 @@ The trained model was deployed using **FastAPI**, enabling users to provide pass
 LIVE DEMO : https://arline-satisification-prediction-project.onrender.com/docs
 
 
+
+## Swagger UI 
+
+<img width="1908" height="1077" alt="Arline Passenger satisification prediction swagger ui" src="https://github.com/user-attachments/assets/e79b84c8-6140-4e5d-bf2a-ce101dbda1de" />
+
+## Result
+
+<img width="1918" height="1078" alt="result" src="https://github.com/user-attachments/assets/9ca5c659-cc27-463c-84d6-521a98c40942" />
+
+
 ## 👨‍💻 Author
 
 **Bhooshitha M G**
